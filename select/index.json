@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "03 1 a 1920x1080 B 251125094918CFM1507111",
+  "base_artist": "ふるさと納税さとふる",
+  "createdAt": "2025-12-01T12:29:06.711147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "XTS001 03 1 Army Of Justice",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/01_XTS001_03_1_Army_Of_Justice_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "03 1-2-3-4",
+      "artist": "KINDERZIMMER PRODUCTIONS",
+      "has_synced": false,
+      "path": "select/02_03_1-2-3-4_KINDERZIMMER_PRODUCTIONS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "03.- 1 más 1 son 7",
+      "artist": "Fran Perea - [EMG]",
+      "has_synced": false,
+      "path": "select/03_03.-_1_más_1_son_7_Fran_Perea_-_[EMG].txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0314",
+      "artist": "山崎あおい",
+      "has_synced": false,
+      "path": "select/pl_01_0314_山崎あおい.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "0314",
+      "artist": "山崎あおい",
+      "has_synced": false,
+      "path": "select/pl_02_0314_山崎あおい.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "031576",
+      "artist": "山崎あおい",
+      "has_synced": false,
+      "path": "select/pl_03_031576_山崎あおい.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "0310",
+      "artist": "山崎あおい",
+      "has_synced": false,
+      "path": "select/pl_04_0310_山崎あおい.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "0316",
+      "artist": "山崎あおい",
+      "has_synced": false,
+      "path": "select/pl_05_0316_山崎あおい.txt"
+    }
+  ]
+}
